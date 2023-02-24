@@ -125,9 +125,12 @@ a.	Players required: At least 2.
 ##Appendix 1##
 What is a T20 Cricket?
 It is a shorter format of cricket played between 2 teams. There are 2 innings in the game with 20 overs each. During an inning, one team will bat, and the other team will bowl and vice versa in the second innings. The team batting first will put a target for the second team to score.
-To know more about T20 cricket format, please visit: https://internationalcricket.fandom.com/wiki/Twenty20  
+
+To know more about T20 cricket format, please visit: https://internationalcricket.fandom.com/wiki/Twenty20 
+
 To know more about T20 cricket world cup, please visit:
 https://en.wikipedia.org/wiki/ICC_Men%27s_T20_World_Cup 
+
 To know more about the sport cricket, please visit:
 https://www.britannica.com/sports/cricket-sport 
 
