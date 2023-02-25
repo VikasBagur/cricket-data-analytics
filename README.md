@@ -10,10 +10,10 @@ The team should be capable of scoring at least 180 runs on an average and be abl
 Please refer to appendix 1 or the python script attached for the code explanation.
 1.	Data was collected from espncricinfo.com by web scraping using Python.
 2.	The extracted data was transformed using Python and Power BI.
-3.	The cleaned data was visualized using Power BI. https://app.powerbi.com/view?r=eyJrIjoiOWFiODEyMmEtYmNhMy00MjFkLWJhMzYtYjI0ZDQ3NTRiMGIxIiwidCI6IjlkZGFhY2ExLTM4OWYtNGNiMS1hMTEzLTA4MWJlNmNjMjVmYyIsImMiOjZ9 
+3.	The cleaned data was visualized using Power BI. [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWFiODEyMmEtYmNhMy00MjFkLWJhMzYtYjI0ZDQ3NTRiMGIxIiwidCI6IjlkZGFhY2ExLTM4OWYtNGNiMS1hMTEzLTA4MWJlNmNjMjVmYyIsImMiOjZ9)
 
 ## My learnings from the project:
-1.	This project is based on this YouTube Video. But I have made some changes to it.
+1.	This project is based on this [YouTube Video](https://www.youtube.com/watch?v=4QkYy1wANXA&t=4750s). But I have made some changes to it.
 2.	I learnt to scrape the web using Python which led me to learn more about Beautiful Soup library and allowed me to get more familiarized with Python. In the video, they have used a website and Java Script to scrape the data.
 3.	I used Python to clean the data.
 4.	Power BI. It was a new tool for me, and the video just gave the basics of it and I learnt how to use it to create better visualizations.  
@@ -91,39 +91,28 @@ c.	Anrich Nortje can be used to control runs during the middle overs (Over no. 7
 
 d.	Shaheen and Anrich can bowl at speed of 150 km/hr., a feat that only a few people have achieved in the cricketing world.
 		
-##Selection Criteria:
-1.	***Openers:***
-
-a.	Players required: 2.
+## Selection Criteria:
+1.	***Openers:*** Players required: 2.
 ![image](https://user-images.githubusercontent.com/65936796/221320060-42db0f19-8e83-4f9d-b8e4-eaa67284f74d.png)
 
  
-2.	***Middle Order:***
-
-a.	Players required: 3.
+2.	***Middle Order:*** Players required: 3.
 ![image](https://user-images.githubusercontent.com/65936796/221320101-92b78ce6-51ae-43a3-bd70-132e1a7ec34b.png)
 
-3.	***Finisher:***
-
-a.	Players required: At least one and preferably one who can bowl spin. 
+3.	***Finisher:*** Players required: At least one and preferably one who can bowl spin. 
 ![image](https://user-images.githubusercontent.com/65936796/221320126-3ad67869-2d76-48b7-8a93-08e769d8bef1.png)
  
-4.	***Wicket Keeper:***
+4.	***Wicket Keeper:*** Players required: At least one and could be anyone from the above roles.
 
-a.	Players required: At least one and could be anyone from the above roles.
-
-5.	***All-rounders:***
-
-a.	Players required: At least one. Could be a spinner or pacer bowler based on the pitch.
+5.	***All-rounders:*** Players required: At least one. Could be a spinner or pacer bowler based on the pitch.
 ![image](https://user-images.githubusercontent.com/65936796/221320184-9b4bc2e1-0cd6-416b-809b-7e3f87bbc762.png)
 
-6.	***Specialist Pacer:***
-
-a.	Players required: At least 2.
+6.	***Specialist Pacer:*** Players required: At least 2.
 ![image](https://user-images.githubusercontent.com/65936796/221320202-eae9baeb-fef4-4f29-9a21-a30e711df51f.png)
 
-##Appendix 1##
-What is a T20 Cricket?
+## Appendix 1
+***What is a T20 Cricket?***
+
 It is a shorter format of cricket played between 2 teams. There are 2 innings in the game with 20 overs each. During an inning, one team will bat, and the other team will bowl and vice versa in the second innings. The team batting first will put a target for the second team to score.
 
 To know more about T20 cricket format, please visit: https://internationalcricket.fandom.com/wiki/Twenty20 
@@ -136,16 +125,16 @@ https://www.britannica.com/sports/cricket-sport
 
 
 
-##Appendix 2: Glossary##
-1.	Opener: They are the ones that bat first in the innings. They must face a new ball, which is hard and has a pronounced seam. For more information click here.
+## Appendix 2: Glossary
+1.	Opener: They are the ones that bat first in the innings. They must face a new ball, which is hard and has a pronounced seam. For more information click [here](https://internationalcricket.fandom.com/wiki/Opening_batsman).
 2.	Middle Order: Batters batting at positions 4, 5, 6 and 7. They should be able to change their approach to the game depending on conditions. If their team loses wicket early, then they must play long careful innings. Otherwise, they are expected to score quickly.
-3.	Finisher: A batter who is capable of scoring at a very high rate. They are not expected to bat long and are also called pinch hitter. For more information on the above 3 roles click here.
-4.	All Rounder: A cricket who regularly performs well at both batting and bowling. For more information click here.
-5.	Wicket Keeper: A type of player in cricket who fields primarily as a wicket-keeper and is particularly adept as a batter. For more information click here.
+3.	Finisher: A batter who is capable of scoring at a very high rate. They are not expected to bat long and are also called pinch hitter. For more information on the above 3 roles click [here](https://en.wikipedia.org/wiki/Batting_order_(cricket)).
+4.	All Rounder: A cricket who regularly performs well at both batting and bowling. For more information click [here](https://en.wikipedia.org/wiki/All-rounder#:~:text=An%20all%2Drounder%20is%20a,disciplines%20and%20are%20considered%20specialists.).
+5.	Wicket Keeper: A type of player in cricket who fields primarily as a wicket-keeper and is particularly adept as a batter. For more information click [here](https://internationalcricket.fandom.com/wiki/Wicket-keeper-batsman).
 6.	Spinner: They are a type of bowlers, who bowl slow but with a spin on the ball. Spinners and pacers together are called bowlers.
-7.	Pacer: They are a type of bowlers who bowl very fast and try to induce it to bounce off the pitch in an erratic fashion or move sideways through the air. For more information click here.
+7.	Pacer: They are a type of bowlers who bowl very fast and try to induce it to bounce off the pitch in an erratic fashion or move sideways through the air. For more information click [here](https://internationalcricket.fandom.com/wiki/Fast_bowling).
 8.	Batting Average: Determined by the total number of runs they have scored divided by the number of times they have been out.
-9.	Strike Rate: It is the average runs that a batsman scores for every 100 balls they face. A high rate indicates a more aggressive batter, and a low rate indicates a conservative batter. For more information click here.
+9.	Strike Rate: It is the average runs that a batsman scores for every 100 balls they face. A high rate indicates a more aggressive batter, and a low rate indicates a conservative batter. For more information click [here](https://cricketershub.com/what-does-strike-rate-mean-in-cricket/).
 10.	Inning: It refers to how long a team or an individual player spends batting. In T20 cricket, an inning comprises of 20 over (Each over has 6 balls)
 11.	Boundary: It is the edge of the playing field. If the ball crosses the edge with at least one pitch in the field, then it is considered as a four, else it is called a six.
 12.	Batting Position/order: It is the sequence in which batters play through their team’s innings.
