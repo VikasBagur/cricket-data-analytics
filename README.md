@@ -10,7 +10,7 @@ The team should be capable of scoring at least 180 runs on an average and be abl
 Please refer to appendix 1 or the python script attached for the code explanation.
 1.	Data was collected from espncricinfo.com by web scraping using Python.
 2.	The extracted data was transformed using Python and Power BI.
-3.	The cleaned data was visualized using Power BI. [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWFiODEyMmEtYmNhMy00MjFkLWJhMzYtYjI0ZDQ3NTRiMGIxIiwidCI6IjlkZGFhY2ExLTM4OWYtNGNiMS1hMTEzLTA4MWJlNmNjMjVmYyIsImMiOjZ9)
+3.	The cleaned data was visualized using Power BI. [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmUyMDkyYjctZjBhNi00OTQzLWEzMDEtNTU3ODI0MzkwNjVkIiwidCI6IjlkZGFhY2ExLTM4OWYtNGNiMS1hMTEzLTA4MWJlNmNjMjVmYyIsImMiOjZ9)
 
 ## My learnings from the project:
 1.	This project is based on this [YouTube Video](https://www.youtube.com/watch?v=4QkYy1wANXA&t=4750s). But I have made some changes to it.
