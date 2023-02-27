@@ -22,11 +22,11 @@ Please refer to appendix 1 or the python script attached for the code explanatio
 
 **Playing 11:**
 
-| Openers          |	Middle Order     |	Finishers      |	All Rounder	| Specialist Pacers  |
-|------------------|-------------------|-----------------|--------------|--------------------|
-| Jos Buttler (c)  |	Virat Kohli      |	Marcus Stoinis | Shadab Khan	| Sam Curran         |
-| Alex Hales       |	Suryakumar Yadav |	Glenn Maxwell	 |	            | Anrich Nortje      |
-|	                 | Glenn Phillips	   |	               |              |Shaheen Shah Afridi |
+|     Openers      |	Middle Order     |    Finishers   | All Rounder	| Specialist Pacers   |
+|------------------|---------------------|----------------|-------------|---------------------|
+|  Jos Buttler (c) |    Virat Kohli      | Curtis Campher | Shadab Khan	|    Sam Curran       |
+|   Alex Hales     |  Suryakumar Yadav   |  Glenn Maxwell |	        |   Anrich Nortje     |
+|	           |   Glenn Phillips	 |	          |             | Shaheen Shah Afridi |
 
 **Reasons:**
 
@@ -57,7 +57,7 @@ d.	Glenn Phillips was chosen for balance. He can steady the ship or play aggress
 
 e.	The order of Glenn Philips and Suryakumar Yadav can be changed based on the playing conditions.
 
-3.	***Finishers: Marcus Stoinis and Glenn Maxwell***
+3.	***Finishers: Curtis Campher and Glenn Maxwell***
 
 ![image](https://user-images.githubusercontent.com/65936796/221319374-fcc84620-e017-4fae-b10c-ece401104b5d.png)
  
@@ -67,7 +67,7 @@ b.	I have recommended 2 finishers for 2 reasons:
 
     a. They both have similar stats and bat at a position which usually plays at the end of the innings.
 
-    b. These 2 are also all-rounders, meaning there will be more options to bowl with. Glenn can bowl off pins, which is effective against left-handed batsman, and Marcus can bowl pace, both during the powerplay.
+    b. These 2 are also all-rounders, meaning there will be more options to bowl with. Glenn can bowl off spins, which is effective against left-handed batsman, and Curtis can bowl pace. Both can bowl during the powerplay overs.
 
 4.	***All-rounder: Shadab Khan***
  
